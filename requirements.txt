@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+yfinance
+alpaca-trade-api
+streamlit
+sqlalchemy
+pytest
